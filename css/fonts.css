@@ -1,0 +1,37 @@
+.montserrat-thin-regular {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #332f31;
+    font-style: normal;
+  }
+  .montserrat-thin-bold {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #332f31;
+  
+    font-style: normal;
+  }
+  .playfair-display-regular {
+    font-family: "Playfair Display", serif;
+  
+    font-weight: 400;
+  
+    font-style: normal;
+  }
+  .playfair-display-bold {
+    font-family: "Playfair Display", serif;
+    font-size: 38px;
+    font-weight: 500;
+  
+    /* line-height: 80px; */
+    color: #332f31;
+    font-style: normal;
+  }
+  .segoe-ui-medium {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #212529;
+  }
